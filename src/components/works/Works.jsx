@@ -12,8 +12,8 @@ const Works = () => {
                       <img src="assets/mobile.png" alt="" />
                     </div>
                     <h2>Title</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi sint magnam praesentium debitis minima
-                       corporis, consectetur, repellendus unde cum cumque vitae
+                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
+                      Eligendi sint magnam praesentium debitis minima.
                     </p>
                     <span>Projects</span>
                   </div>

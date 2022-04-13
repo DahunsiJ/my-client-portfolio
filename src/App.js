@@ -6,7 +6,7 @@ import Testimonials from "./components/testimonials/Testimonials";
 import Contact from "./components/contact/Contact";
 import Menu from "./components/menu/Menu"
 import "./app.scss";
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 
 
 function App() {
